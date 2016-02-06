@@ -46,3 +46,16 @@ dismathportfolio-JarenOfficial created by Classroom for GitHub
 
 ## WEEK 3
 
+- The Methods of Prood are introduced to us and as follows: <b>Direct Proof</b>, <b>Proof by Contraposition</b>, <b>Vacuuos Proof</b>, <b>Trivial Proof</b>, <b>Proof by Contradiction</b>, <b>Proof by Equivalence</b>, and <b>Mathematical Induction</b>.
+- Direct Proof: <p>- Assume the p is true </p><p>-Then show that q is true</p>
+- Proof by Contraposition: <p>- Assume the ¬q is true </p><p>-Then show that ¬p is true</p>
+- Vacuuos Proof: <p>- Show that p is false </p><p>-Then p → q is true</p>
+- Trivial Proof:  <p>- Show that q is true </p><p>-Then p → q is true</p>
+- Proof of contradiction is slightly introduced.
+
+## WEEK 4
+
+- Proof of Contradiction: <p>- Show that ¬P is true (P is the whole statement) </p><p>-Then show that it will end up in a contradiction</p>
+- Proof by equivalence: <p>- Show that p ↔ q  is true </p><p>-Then show that q ↔ p  is also true </p>
+- Mathematical Induction: <p>- Use the basis step: substitute any element to P(k) </p><p>-Then use the inductive step: this is like direct proof in which you prove that P(k) is true and P(k+1) is true </p>
+- Recursive and Summation
