@@ -59,3 +59,13 @@ dismathportfolio-JarenOfficial created by Classroom for GitHub
 - Proof by equivalence: <p>- Show that p ↔ q  is true </p><p>-Then show that q ↔ p  is also true </p>
 - Mathematical Induction: <p>- Use the basis step: substitute any element to P(k) </p><p>-Then use the inductive step: this is like direct proof in which you prove that P(k) is true and P(k+1) is true </p>
 - Recursive and Summation
+
+## WEEK 5
+
+- Set Theories
+- Set Builder Notation
+- Set Membership
+- Subsets & Power Sets
+- Power Series
+- Zeno's Paradox
+- Cardinality
