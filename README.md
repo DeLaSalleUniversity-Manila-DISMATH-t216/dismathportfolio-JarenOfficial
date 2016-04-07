@@ -69,3 +69,14 @@ dismathportfolio-JarenOfficial created by Classroom for GitHub
 - Power Series
 - Zeno's Paradox
 - Cardinality
+
+##WEEK 6
+
+- We discussed about Functions.
+- Functions can also be called as <i>mappings<i> or <i>transformations</i>.
+- A function from a to b is a correspondence of one variable of b to each variable of b.
+- We can say that if <i>f</i> is the function from A to B, then A is the <b>domain</b> of <i>f</i> and B is the <b>codomain</b> of <i>f</i>.
+- Also, if <i>f(a) = b</i>, then b is the <b>image</b> of a and a is the <b>pre-image</b> of b.
+- The <b>range</b> of a function is the set of all the images in the elements of A.
+- There are different types of functions or correspondences: <b>One-to-one Function</b>, <b>Onto Function</b>, and <b>One-to-one Correspondence</b>.
+- One-to-one Functions, also called as <b>injection or injective</b>, states that a function is considered to be in this case if and only if <i>f(a) = b</i>
