@@ -205,7 +205,7 @@ dismathportfolio-JarenOfficial created by Classroom for GitHub
 - Another type is the Hamilton path and circuit. 
 - In the case of hamilton path, a graph should be considered to have this if all the vertex or nodes are covered once.
 - In Hamilton circuit, if there is a way that will make it return to its starting point then it has a hamilton circuit. 
-- Also, there is what we call Euler's formula which can give you the number of regions. It is the difference of edges and vertices divided by two. 
+- Also, there is what we call Euler's formula which can give you the number of regions. It is the difference of edges and vertices plus two. 
 - A way to know the matrix of graphs is to use the adjacency matrix to see the connections. 
 - Also, we learned to distinguish if a graph is planar or not planar.
 - A graph is said to be not planar if it has a subgraph of K<sub>3,3</sub> or K<sub>5</sub> according to the Kuratowski's theorem.
